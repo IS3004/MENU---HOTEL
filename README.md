@@ -1,1 +1,1 @@
-HI! Thi is a web development project.
+HI! This is a web development project.
